@@ -16,5 +16,6 @@ class GPS {
       ),
       alignment: const AlignmentDirectional(0, 0),
     );
+    //imported global state from UI.dart you can use this imported state to change the state of the widget
   }
 }

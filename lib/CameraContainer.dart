@@ -15,6 +15,7 @@ class Camera {
       ),
       // You can access state properties here
       // Example: child: Text(state.someProperty)
+      //imported global state from UI.dart you can use this imported state to change the state of the widget
     );
   }
 }

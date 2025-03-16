@@ -14,7 +14,11 @@ class Log3 {
         borderRadius: BorderRadius.circular(18),
         shape: BoxShape.rectangle,
       ),
-      alignment: const AlignmentDirectional(0, 0),
+      alignment: AlignmentDirectional(0, 0),
     );
+    //imported global state from UI.dart you can use this imported state to change the state of the widget
+    // You can access state properties here
+    // Example: child: Text(state.someProperty)
+    //imported global state from UI.dart you can use this imported state to change the state of the widget
   }
 }
